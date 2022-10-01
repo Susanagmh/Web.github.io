@@ -350,7 +350,7 @@ img {
   {% endunless %}
 }
 .navbar-custom .avatar-container .avatar-img {
-  width: 175%;
+  width: 150%;
   {% unless site.round-avatar == false %}
     border-radius: 150%;
   {% endunless %}
@@ -377,7 +377,7 @@ img {
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img {
-    width: 300%;
+    width: 175%;
   }
 }
 
