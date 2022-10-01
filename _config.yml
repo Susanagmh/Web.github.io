@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Animal Planet
 
 # Your name to show in the footer
 author: Some Person
@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mi"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://www.lavanguardia.com/r/GODO/LV/p6/WebSite/2019/10/02/Recortada/img_jelcacho_20191002-173510_imagenes_lv_terceros_biodiversidad-kC1F-U47777536209wJD-992x558@LaVanguardia-Web.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
