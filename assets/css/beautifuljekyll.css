@@ -102,7 +102,7 @@ img::-moz-selection {
 }
 
 img {
-  max-width: 100%;
+  max-width: 300%;
 }
 
 .linked-section {
