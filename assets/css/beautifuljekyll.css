@@ -169,7 +169,7 @@ img {
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
-   width: 300%;
+   width: 175%;
 }
 
 .navbar-custom .navbar-brand-logo img,
@@ -350,7 +350,7 @@ img {
   {% endunless %}
 }
 .navbar-custom .avatar-container .avatar-img {
-  width: 300%;
+  width: 175%;
   {% unless site.round-avatar == false %}
     border-radius: 150%;
   {% endunless %}
