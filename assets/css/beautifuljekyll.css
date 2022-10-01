@@ -155,6 +155,7 @@ img {
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
+  
 }
 
 .navbar-custom .navbar-brand-logo,
@@ -168,6 +169,7 @@ img {
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
+   width: 300%;
 }
 
 .navbar-custom .navbar-brand-logo img,
@@ -348,9 +350,9 @@ img {
   {% endunless %}
 }
 .navbar-custom .avatar-container .avatar-img {
-  width: 100%;
+  width: 300%;
   {% unless site.round-avatar == false %}
-    border-radius: 50%;
+    border-radius: 150%;
   {% endunless %}
   display: block;
 }
@@ -375,7 +377,7 @@ img {
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img {
-    width: 100%;
+    width: 300%;
   }
 }
 
