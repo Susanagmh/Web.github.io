@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-image: url("https://concepto.de/wp-content/uploads/2019/03/reino-animal-portada.jpg");
+  background-image: url("https://queanimales.site/wp-content/uploads/2022/05/reino-animal.jpg");
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
