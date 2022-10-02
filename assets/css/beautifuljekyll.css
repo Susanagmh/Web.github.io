@@ -170,7 +170,7 @@ img {
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
-   width: 175%;
+ 
 }
 
 .navbar-custom .navbar-brand-logo img,
@@ -385,6 +385,7 @@ img {
 /* --- Footer --- */
 
 footer {
+  color: #1EFA00;
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
