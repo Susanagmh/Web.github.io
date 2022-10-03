@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-color: lightblue;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT609gf59YZSukv77gm7d-j1J9xk7Sqxfepsw&usqp=CAU");
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
