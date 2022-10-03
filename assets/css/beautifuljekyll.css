@@ -11,7 +11,8 @@ html {
 }
 
 body {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT609gf59YZSukv77gm7d-j1J9xk7Sqxfepsw&usqp=CAU");
+  background-image: url("https://static.nationalgeographic.es/files/styles/image_3200/public/2354.600x450.jpg?w=1900&h=1425");
+  opacity: 0.3;
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
