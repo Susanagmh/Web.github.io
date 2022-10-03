@@ -11,7 +11,6 @@ html {
 }
 
 body {
-  background-image: url("hhttps://www.agroperu.pe/wp-content/uploads/2020/09/SUELO.jpg");
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
