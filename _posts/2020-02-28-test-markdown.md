@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Animales en peligro de extincion
-subtitle: Lista de los animales en peligro de extinción
+subtitle: Algunos de los animales en peligro de extinción
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
