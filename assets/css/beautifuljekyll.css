@@ -11,6 +11,7 @@ html {
 }
 
 body {
+  background-image: url(" https://thumbs.dreamstime.com/b/tierra-rosa-suelo-rojo-14274836.jpg");
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
