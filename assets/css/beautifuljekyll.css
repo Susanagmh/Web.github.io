@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-image: url("https://okdiario.com/img/2019/08/10/-por-que-el-leon-es-el-rey-de-la-selva_-1.jpg");
+  background-image: url("hhttps://www.agroperu.pe/wp-content/uploads/2020/09/SUELO.jpg");
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
