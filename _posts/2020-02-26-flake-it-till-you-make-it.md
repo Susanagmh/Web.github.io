@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ***Curiosidades***
+title: Curiosidades
 subtitle: Cosas que quizas no sabias
 cover-img: /assets/img/tutu.jpg
 thumbnail-img: /assets/img/thumb.png
