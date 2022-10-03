@@ -15,6 +15,17 @@ comments: true
 # Estos son 3 de los animales más amenazados de la tierra y que podrían desaparecer en los próximos años:
 
 
+### El oso polar
 ![Oso polar](https://www.bbva.com/wp-content/uploads/2019/09/bbva-cambio-climatico-300x200.jpg)
 
-![Oso panda]([https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg](https://www.bbva.com/wp-content/uploads/2019/08/panda-300x197.jpg))
+### El oso panda
+![Oso panda](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg](https://www.bbva.com/wp-content/uploads/2019/08/panda-300x197.jpg)
+
+
+### El elefante
+![Elefante](https://www.bbva.com/wp-content/uploads/2021/03/elefante-300x185.jpg)
+
+### La ballena
+![ballena](https://www.bbva.com/wp-content/uploads/2021/03/elefante-300x185.jpg](https://www.bbva.com/wp-content/uploads/2021/03/ballena-especie-peligro-extincion-bbva-sostenibilidad-300x185.jpg)
+
+
