@@ -1,16 +1,34 @@
 ---
 layout: page
 title: Sobre mi
-#subtitle: Why you'd want to go on a date with me
+#He subrido esta pagina
 ---
 
-Mi nombre Susana Mayora . Tengo estas cualidades:
+## My story
 
-- Soy muy extrovertida
-- Me encanta bailar
+Luego de borrarla y volverla hacer mas de tres veces 
+![matacion](https://i.gifer.com/UNJb.gif)
 
-What else do you need?
+### Generador ultilizado
+- beautiful-jekyll
 
-### My story
+### Cambios realizados
+- Cambio de color,estilo de letras desde el css
+- Cambio de color desde el config.yml
+- Cambio de autor desde el config.yml
+- Descarga de fotos y guardalas en la carpeta asser/img
+- Agregacion de imagenes desde direcciones de internet
+- Agregacion de fotos desde el css
+- Agregacion de fotos con Markdown
+- Cambio de logo
+- Cambios de color del h1,h2
+- Cambio de fondo 18000 veces
+- Cambio de tamaño del logo
+- Cambio del footer
+- Cambio del header
+- Cambio de color de las letras desde el config.yml
+- Cambio de el Style del titulo
+- Agregacion de informacion de animales
+- Poner nombres absurdos en los commit
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
