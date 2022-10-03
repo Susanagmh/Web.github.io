@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: ***Curiosidades***
+subtitle: Cosas que quizas no sabias
 cover-img: /assets/img/tutu.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/tut.jpg
