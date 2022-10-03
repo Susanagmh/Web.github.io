@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Animales en peligro de extincion
+subtitle: Lista de los animales en peligro de extinción
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
+De las 8.300 razas de animales conocidas, el 8% están extintas y el 22% está en peligro de extinción. Estas cifras de las Naciones Unidas sitúan al planeta al borde de lo que algunos científicos han denominado como la sexta gran extinción. El impacto de la acción del ser humano en los ecosistemas está provocando que numerosas especies desaparezcan, lo que genera un daño irreversible tanto en la [biodiversidad como en el medioambiente.](https://www.bbva.com/es/sostenibilidad/12-animales-en-peligro-de-extincion/)
 
 **Here is some bold text**
 
