@@ -8,7 +8,7 @@ share-img: /assets/img/tutu.jpg
 tags: [books, test]
 ---
 
-El año 2016 fue el más cálido del que se tenga constancia de acuerdo con la infografía elaborada por la ONU “20 datos para entender la crisis ecológica de la Tierra”, en donde se destacan las consecuencias del cambio climático y las posibles soluciones para reducirlo.
+***El año 2016 fue el más cálido del que se tenga constancia de acuerdo con la infografía elaborada por la ONU “20 datos para entender la crisis ecológica de la Tierra”, en donde se destacan las consecuencias del cambio climático y las posibles soluciones para reducirlo.***
 
 Estos son algunos datos relevantes de esta infografía presentada en el marco del día de la tierra, el 22 de abril:
 
