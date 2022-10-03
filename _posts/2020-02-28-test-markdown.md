@@ -3,7 +3,6 @@ layout: post
 title: Animales en peligro de extincion
 subtitle: Algunos de los animales en peligro de extinción
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
@@ -19,13 +18,13 @@ comments: true
 ![Oso polar](https://www.bbva.com/wp-content/uploads/2019/09/bbva-cambio-climatico-300x200.jpg)
 
 ### El oso panda
-![Oso panda](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg](https://www.bbva.com/wp-content/uploads/2019/08/panda-300x197.jpg)
+![Oso panda](https://www.bbva.com/wp-content/uploads/2019/08/panda-300x197.jpg)
 
 
 ### El elefante
 ![Elefante](https://www.bbva.com/wp-content/uploads/2021/03/elefante-300x185.jpg)
 
 ### La ballena
-![ballena](https://www.bbva.com/wp-content/uploads/2021/03/elefante-300x185.jpg](https://www.bbva.com/wp-content/uploads/2021/03/ballena-especie-peligro-extincion-bbva-sostenibilidad-300x185.jpg)
+![ballena](https://www.bbva.com/wp-content/uploads/2021/03/ballena-especie-peligro-extincion-bbva-sostenibilidad-300x185.jpg)
 
 
