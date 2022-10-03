@@ -2,9 +2,9 @@
 layout: post
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: [/assets/img/path.jpg](https://hospitalveterinariodonostia.com/wp-content/uploads/2018/12/6-lugares-donde-puedes-ver-animales-exoticos-6.jpg)
+cover-img: /assets/img/tutu.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: [/assets/img/path.jpg](https://hospitalveterinariodonostia.com/wp-content/uploads/2018/12/6-lugares-donde-puedes-ver-animales-exoticos-6.jpg)
+share-img: /assets/img/tut.jpg
 tags: [books, test]
 ---
 
