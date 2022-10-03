@@ -9,23 +9,11 @@ comments: true
 ---
 
 
-De las 8.300 razas de animales conocidas, el 8% están extintas y el 22% está en peligro de extinción. Estas cifras de las Naciones Unidas sitúan al planeta al borde de lo que algunos científicos han denominado como la sexta gran extinción. El impacto de la acción del ser humano en los ecosistemas está provocando que numerosas especies desaparezcan, lo que genera un daño irreversible tanto en la [biodiversidad como en el medioambiente.](https://www.bbva.com/es/sostenibilidad/12-animales-en-peligro-de-extincion/)
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+***De las 8.300 razas de animales conocidas, el 8% están extintas y el 22% está en peligro de extinción. Estas cifras de las Naciones Unidas sitúan al planeta al borde de lo que algunos científicos han denominado como la sexta gran extinción. El impacto de la acción del ser humano en los ecosistemas está provocando que numerosas especies desaparezcan, lo que genera un daño irreversible tanto en la [biodiversidad como en el medioambiente.](https://www.bbva.com/es/sostenibilidad/12-animales-en-peligro-de-extincion/)***
 
 
-How about a yummy crepe?
+# Estos son 12 de los animales más amenazados de la tierra y que podrían desaparecer en los próximos años:
+
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
